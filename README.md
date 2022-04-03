@@ -9,3 +9,9 @@
 [Set NVIDIA as primary](https://askubuntu.com/questions/1198930/glxinfo-grep-opengl-not-showing-nvidia)
 
 [Install and configure ssh server](https://devconnected.com/how-to-install-and-enable-ssh-server-on-ubuntu-20-04/)
+
+[Install xrdp server](https://linuxize.com/post/how-to-install-xrdp-on-ubuntu-20-04/)
+
+Note: When using Remmina to log in to RDP, you will need to 
+* create a profile in remina and change the color depth to RemoteFX
+* ensure you are logged out on the SPICE session before connecting
