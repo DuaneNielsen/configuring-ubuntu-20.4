@@ -8,4 +8,4 @@
 
 [Set NVIDIA as primary](https://askubuntu.com/questions/1198930/glxinfo-grep-opengl-not-showing-nvidia)
 
-[Install and confgire ssh server](https://devconnected.com/how-to-install-and-enable-ssh-server-on-ubuntu-20-04/)
+[Install and configure ssh server](https://devconnected.com/how-to-install-and-enable-ssh-server-on-ubuntu-20-04/)
