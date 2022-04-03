@@ -7,3 +7,5 @@
 [Configure GPU Passthrough on QEMU](https://mathiashueber.com/pci-passthrough-ubuntu-2004-virtual-machine/)
 
 [Set NVIDIA as primary](https://askubuntu.com/questions/1198930/glxinfo-grep-opengl-not-showing-nvidia)
+
+[Install and confgire ssh server](https://devconnected.com/how-to-install-and-enable-ssh-server-on-ubuntu-20-04/)
