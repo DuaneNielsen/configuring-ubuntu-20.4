@@ -15,3 +15,5 @@ Note: When using Remmina to log in to RDP, you will need to
 [Replace Mesa with NVIDIA](https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-20-04-focal-fossa-linux)
 
 [Set NVIDIA as primary](https://askubuntu.com/questions/1198930/glxinfo-grep-opengl-not-showing-nvidia)
+
+[Fixinging grub to work with multi-boot](https://askubuntu.com/questions/1069735/update-grub-command-has-no-effect)
