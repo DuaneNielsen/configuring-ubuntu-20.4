@@ -16,4 +16,4 @@ Note: When using Remmina to log in to RDP, you will need to
 
 [Set NVIDIA as primary](https://askubuntu.com/questions/1198930/glxinfo-grep-opengl-not-showing-nvidia)
 
-[Fixinging grub to work with multi-boot](https://askubuntu.com/questions/1069735/update-grub-command-has-no-effect)
+[Fixing grub to work with multi-boot](https://askubuntu.com/questions/1069735/update-grub-command-has-no-effect)
